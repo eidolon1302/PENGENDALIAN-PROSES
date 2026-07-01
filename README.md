@@ -60,8 +60,7 @@ PENGENDALIAN-PROSES-KEOMPOK3/
 │   └── ratio_control.png        
 │
 └── LICENSE
-│
-└── LICENSE        ← Root scripts (concurrently)
+└── README.md
 ```
 
 **Run The Code**
