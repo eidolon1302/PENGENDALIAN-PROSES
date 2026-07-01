@@ -23,11 +23,11 @@ This documentation site includes:
 - **Simulation Code (Ratio Control & Cascade Control Program)**
 - **References** - References used in this project
 
-## Introduction
+# Introduction
 
 Pada tugas ini kami memilih Continuous Stirred Tank Reactor (CSTR) sebagai studi kasus karena merupakan salah satu reaktor yang paling banyak digunakan dalam industri proses. Agar reaksi berlangsung secara optimal, diperlukan sistem pengendalian yang mampu menjaga kondisi operasi tetap stabil. Oleh karena itu, kami menerapkan dua strategi pengendalian yang berbeda, yaitu Ratio Control untuk mempertahankan rasio laju alir dua reaktan sesuai kebutuhan reaksi, dan Cascade Control untuk mengendalikan temperatur reaktor melalui pengaturan aliran media pendingin. Kedua metode tersebut kemudian disimulasikan dan dianalisis kestabilan serta performansinya.
 
-## Introduction to This Project
+# Introduction to This Project
 
 This documentation site includes:
 
@@ -37,7 +37,7 @@ This documentation site includes:
 - **Contributor**
 - **References** - References used in this project
 
-# Block Diagram & Simulation Code
+# Simulation Code
 
 ## How to Use The Code
 
